@@ -1,0 +1,5 @@
+fr\einfolearning\employee_crud\db\DBConnection.class
+fr\einfolearning\employee_crud\beans\Employee.class
+fr\einfolearning\employee_crud\db\dao\IEmployeeDAO.class
+fr\einfolearning\employee_crud\db\dao\EmployeeDAOImpl.class
+fr\einfolearning\employee_crud\resources\EmployeeRessource.class
